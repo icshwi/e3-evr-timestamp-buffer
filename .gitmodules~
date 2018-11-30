@@ -1,0 +1,3 @@
+[submodule "evr-timestamp-buffer"]
+	path = evr-timestamp-buffer
+	url = https://github.com/icshwi/evr-timestamp-buffer
